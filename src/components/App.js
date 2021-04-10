@@ -9,7 +9,7 @@ export default function App() {
 
   const handleCartClick = () => {
     setIsOpenPopup(true);
-    // setTimeout(() => setIsOpenPopup(false), 3000);
+    setTimeout(() => setIsOpenPopup(false), 3000);
   } 
 
   useEffect(() => {
