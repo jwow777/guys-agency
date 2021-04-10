@@ -1,0 +1,5 @@
+.content__characteristics-container {
+  display: grid;
+  grid-template-columns: repeat(2, 344px);
+  grid-column-gap: 160px;
+}

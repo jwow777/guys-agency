@@ -1,0 +1,13 @@
+.header__katalog {
+  width: 127px;
+  background-image: url(../../../images/burger.svg);
+  background-repeat: no-repeat;
+  background-position-x: 17px;
+  background-position-y: center;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: right;
+  box-sizing: border-box;
+  padding: 0 15px;
+}

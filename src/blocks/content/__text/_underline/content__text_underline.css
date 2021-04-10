@@ -1,0 +1,9 @@
+.content__text_underline {
+  text-decoration: underline;
+  margin-right: 10px;
+}
+
+.content__text_underline:hover {
+  color: #0AAEDD;
+  cursor: pointer;
+}

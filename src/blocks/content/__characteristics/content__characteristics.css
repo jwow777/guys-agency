@@ -1,0 +1,10 @@
+.content__characteristics {
+  width: 176px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  padding-bottom: 5px;
+  border-bottom: 2px solid #002051;
+  text-align: center;
+  margin: 0 0 35px;
+}

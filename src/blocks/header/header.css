@@ -1,0 +1,6 @@
+.header {
+  display: grid;
+  grid-row-gap: 20px;
+  box-sizing: border-box;
+  padding: 20px 95px 10px;
+}

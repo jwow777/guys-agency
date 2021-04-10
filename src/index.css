@@ -1,0 +1,99 @@
+@import url(./vendor/normalize.css);
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;900&display=swap");
+@import url(./fonts/HalvarBreit/HalvarBreit.css);
+
+.page {
+  max-width: 1440px;
+  margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  color: #002051;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.subtitle {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+}
+@import url(./blocks/button/button.css);
+@import url(./blocks/button/_dark/button_dark.css);
+@import url(./blocks/button/_large/button_large.css);
+@import url(./blocks/button/_medium/button_medium.css);
+@import url(./blocks/button/_red/button_red.css);
+@import url(./blocks/button/_small/button_small.css);
+@import url(./blocks/button/_white/button_white.css);
+
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/_top/header_top.css);
+@import url(./blocks/header/_bottom/header_bottom.css);
+@import url(./blocks/header/__basket/header__basket.css);
+@import url(./blocks/header/__input/header__input.css);
+@import url(./blocks/header/__katalog/header__katalog.css);
+@import url(./blocks/header/__phone/header__phone.css);
+@import url(./blocks/header/__user/header__user.css);
+
+@import url(./blocks/menu/menu.css);
+@import url(./blocks/menu/__items/menu__items.css);
+@import url(./blocks/menu/__link/menu__link.css);
+
+@import url(./blocks/content/content.css);
+@import url(./blocks/content/__application/content__application.css);
+@import url(./blocks/content/__basket/content__basket.css);
+@import url(./blocks/content/__block/content__block.css);
+@import url(./blocks/content/__button/content__button.css);
+@import url(./blocks/content/__cart-container/content__cart-container.css);
+@import url(./blocks/content/__cart/content__cart.css);
+@import url(./blocks/content/__characteristics-container/content__characteristics-container.css);
+@import url(./blocks/content/__characteristics/content__characteristics.css);
+@import url(./blocks/content/__code/content__code.css);
+@import url(./blocks/content/__link/content__link.css);
+@import url(./blocks/content/__lists/content__lists.css);
+@import url(./blocks/content/__list/content__list.css);
+@import url(./blocks/content/__model/content__model.css);
+@import url(./blocks/content/__price/content__price.css);
+@import url(./blocks/content/__price/_current/content__price_current.css);
+@import url(./blocks/content/__price/_old/content__price_old.css);
+@import url(./blocks/content/__text/content__text.css);
+@import url(./blocks/content/__text/_bold/content__text_bold.css);
+@import url(./blocks/content/__text/_fade/content__text_fade.css);
+@import url(./blocks/content/__text/_underline/content__text_underline.css);
+@import url(./blocks/content/__title/content__title.css);
+
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__button/footer__button.css);
+@import url(./blocks/footer/__form/footer__form.css);
+@import url(./blocks/footer/__input/footer__input.css);
+@import url(./blocks/footer/__label/footer__label.css);
+@import url(./blocks/footer/__subtitle/footer__subtitle.css);
+@import url(./blocks/footer/__title/footer__title.css);
+
+@import url(./blocks/popup/popup.css);
+@import url(./blocks/popup/_opened/popup_opened.css);
+@import url(./blocks/popup/__block/popup__block.css);
+@import url(./blocks/popup/__block/_center/popup__block_center.css);
+@import url(./blocks/popup/__block/_left/popup__block_left.css);
+@import url(./blocks/popup/__block/_middle/popup__block_middle.css);
+@import url(./blocks/popup/__block/_right/popup__block_right.css);
+@import url(./blocks/popup/__button-container/popup__button-container.css);
+@import url(./blocks/popup/__button/__button.css);
+@import url(./blocks/popup/__button/_minus/popup__button_minus.css);
+@import url(./blocks/popup/__button/_plus/popup__button_plus.css);
+@import url(./blocks/popup/__container/popup__container.css);
+@import url(./blocks/popup/__lists/popup__lists.css);
+@import url(./blocks/popup/__list/popup__list.css);
+@import url(./blocks/popup/__price/popup__price.css);
+@import url(./blocks/popup/__submit/popup__submit.css);
+@import url(./blocks/popup/__text/popup__text.css);
+@import url(./blocks/popup/__text/_bottom/popup__text_bottom.css);
+@import url(./blocks/popup/__text/_fade/popup__text_fade.css);
+@import url(./blocks/popup/__text/_red/popup__text_red.css);
+@import url(./blocks/popup/__text/_top/popup__text_top.css);
+@import url(./blocks/popup/__text/_middle/popup__text_middle.css);
+@import url(./blocks/popup/__title/popup__title.css);
+@import url(./blocks/popup/__trash/popup__trash.css);

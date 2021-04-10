@@ -1,0 +1,5 @@
+.content__cart-container {
+  display: grid;
+  grid-template-columns: repeat(2, max-content);
+  grid-column-gap: 20px;
+}

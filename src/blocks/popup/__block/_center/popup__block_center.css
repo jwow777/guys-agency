@@ -1,0 +1,5 @@
+.popup__block_center {
+  display: grid;
+  align-items: center;
+  grid-row-gap: 10px;
+}

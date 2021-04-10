@@ -1,0 +1,7 @@
+.header__user {
+  width: 30px;
+  background-color: transparent;
+  background-image: url(../../../images/user.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}

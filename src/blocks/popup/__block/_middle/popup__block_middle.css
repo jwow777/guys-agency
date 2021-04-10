@@ -1,0 +1,5 @@
+.popup__block_middle {
+  display: grid;
+  grid-template-columns: repeat(2, max-content);
+  grid-column-gap: 10px;
+}

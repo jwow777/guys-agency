@@ -1,0 +1,20 @@
+.header__input {
+  width: 813px;
+  height: 40px;
+  background-image: url(../../../images/loop.svg);
+  background-repeat: no-repeat;
+  background-position-x: 98%;
+  background-position-y: center;
+  opacity: 0.7;
+  border: 1px solid #002051;
+  box-sizing: border-box;
+  padding: 0 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  line-height: 22px;
+  color: #002051;
+}
+
+.header__input::placeholder {
+  color: #99A6B9;
+}

@@ -1,0 +1,6 @@
+.popup__text_top {
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

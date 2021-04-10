@@ -1,0 +1,10 @@
+.popup__button-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  border: 1px solid #002051;
+  border-radius: 0px 2px 2px 0px;
+  font-weight: 500;
+}

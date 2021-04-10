@@ -1,0 +1,27 @@
+.header__basket {
+  position: relative;
+  width: 30px;
+  background-color: transparent;
+  background-image: url(../../../images/basket.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.header__basket::after {
+  content: "3";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #E83850;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 8px;
+  color: #fff;
+  box-sizing: border-box;
+  border-radius: 50%;
+}

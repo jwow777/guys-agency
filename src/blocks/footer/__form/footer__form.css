@@ -1,0 +1,6 @@
+.footer__form {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: end;
+  grid-gap: 55px 28px;
+}

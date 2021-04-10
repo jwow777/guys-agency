@@ -1,0 +1,17 @@
+.footer__input {
+  width: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+  padding: 5px 0;
+  border-bottom: 1px solid #99A6B9;
+  color: #fff;
+}
+
+.footer__input::placeholder {
+  color: #99A6B9;
+}
+
+.footer__input:focus {
+  border-bottom: 1px solid #fff;
+}

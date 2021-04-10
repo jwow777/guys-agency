@@ -1,0 +1,5 @@
+.popup__list {
+  display: grid;
+  grid-template-columns: 100px auto 104px;
+  grid-column-gap: 20px;
+}
