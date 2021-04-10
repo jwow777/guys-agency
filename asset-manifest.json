@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/guys-agency/static/css/main.6211ad14.chunk.css",
+    "main.js": "/guys-agency/static/js/main.f3e478ba.chunk.js",
+    "main.js.map": "/guys-agency/static/js/main.f3e478ba.chunk.js.map",
+    "runtime-main.js": "/guys-agency/static/js/runtime-main.ffe54ad2.js",
+    "runtime-main.js.map": "/guys-agency/static/js/runtime-main.ffe54ad2.js.map",
+    "static/js/2.d3082f65.chunk.js": "/guys-agency/static/js/2.d3082f65.chunk.js",
+    "static/js/2.d3082f65.chunk.js.map": "/guys-agency/static/js/2.d3082f65.chunk.js.map",
+    "static/js/3.b36adad4.chunk.js": "/guys-agency/static/js/3.b36adad4.chunk.js",
+    "static/js/3.b36adad4.chunk.js.map": "/guys-agency/static/js/3.b36adad4.chunk.js.map",
+    "index.html": "/guys-agency/index.html",
+    "static/css/main.6211ad14.chunk.css.map": "/guys-agency/static/css/main.6211ad14.chunk.css.map",
+    "static/js/2.d3082f65.chunk.js.LICENSE.txt": "/guys-agency/static/js/2.d3082f65.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/guys-agency/static/media/user.8b1458a2.svg",
+    "static/media/logo.5c11f72b.svg": "/guys-agency/static/media/logo.5c11f72b.svg",
+    "static/media/product.de00afda.png": "/guys-agency/static/media/product.de00afda.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffe54ad2.js",
+    "static/js/2.d3082f65.chunk.js",
+    "static/css/main.6211ad14.chunk.css",
+    "static/js/main.f3e478ba.chunk.js"
+  ]
+}
