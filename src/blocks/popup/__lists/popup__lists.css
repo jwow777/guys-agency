@@ -1,4 +1,4 @@
-..popup__lists {
+.popup__lists {
   display: grid;
   grid-row-gap: 20px;
   list-style: none;
